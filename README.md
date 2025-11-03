@@ -99,7 +99,7 @@ The system follows a client-server architecture where the React frontend communi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nileshkulkarniy/EmotionSense.git
+   git clone https://github.com/nileshkulkarniy/EmotionSense-AI-powered-Emotion-Recognition-and-Analytics-System.git
    cd EmotionSense
    ```
 
