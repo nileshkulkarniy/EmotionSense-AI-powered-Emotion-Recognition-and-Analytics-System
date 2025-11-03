@@ -1,4 +1,4 @@
-# EmotionSense
+# EmotionSense: AI-powered Emotion Recognition and Analytics System
 
 EmotionSense is an advanced AI-powered emotion detection application that analyzes facial expressions, voice tones, and text to identify human emotions. The application provides a comprehensive dashboard for users to interact with different emotion analysis modules, featuring real-time processing and visualization capabilities.
 
@@ -75,29 +75,6 @@ Before you begin, ensure you have the following installed:
 - Webcam (for face emotion detection)
 - Microphone (for voice emotion analysis)
 - pip (Python package manager)
-
-
-### Frontend
-- **React.js**: JavaScript library for building user interfaces
-- **Tailwind CSS**: Utility-first CSS framework for styling
-- **Vite**: Next-generation frontend tooling for faster development
-- **React Router**: Declarative routing for React applications
-- **Framer Motion**: Production-ready motion library for React
-- **Chart.js**: Simple yet flexible JavaScript charting library
-- **Axios**: Promise-based HTTP client for browser and Node.js
-
-### Backend
-- **Python Flask**: Lightweight WSGI web application framework
-- **MongoDB**: NoSQL database for user data storage
-- **TensorFlow**: End-to-end open-source machine learning platform
-- **OpenCV**: Library of programming functions for real-time computer vision
-- **NLTK**: Leading platform for building Python programs to work with human language data
-- **scikit-learn**: Machine learning library for Python
-
-### Machine Learning Libraries
-- **TensorFlow/Keras**: Deep learning models for facial emotion detection
-- **scikit-learn**: Traditional ML algorithms for text sentiment analysis
-- **NLTK**: Natural language processing toolkit for text preprocessing
 
 ## System Architecture
 
